@@ -18,3 +18,7 @@ The data were all sourced from the @dog_rates twitter account.
 This involved 2 part: the exploratory visualizations and the presentation slides containing the explanatory visuals. The story told was about the impact of the COVID-19 pandemic on Washington D.C's bicycle sharing activies. . 
 The data was sourced from the [Capital Bike Share](https://s3.amazonaws.com/capitalbikeshare-data/index.html)
 ![download (8)](https://user-images.githubusercontent.com/85615800/177217638-40f24b42-50c1-4b4f-9dc1-686842aa0882.png)
+
+#### Author:   Clifford Okwudili Aniakor
+#### Reviewer: Udacity
+#### Sponsor:  African Leadership Group ALX-T
